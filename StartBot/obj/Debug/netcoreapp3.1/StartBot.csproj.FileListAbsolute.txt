@@ -1,0 +1,17 @@
+C:\Users\1\source\repos\StartBot\StartBot\bin\Debug\netcoreapp3.1\StartBot.exe
+C:\Users\1\source\repos\StartBot\StartBot\bin\Debug\netcoreapp3.1\StartBot.deps.json
+C:\Users\1\source\repos\StartBot\StartBot\bin\Debug\netcoreapp3.1\StartBot.runtimeconfig.json
+C:\Users\1\source\repos\StartBot\StartBot\bin\Debug\netcoreapp3.1\StartBot.runtimeconfig.dev.json
+C:\Users\1\source\repos\StartBot\StartBot\bin\Debug\netcoreapp3.1\StartBot.dll
+C:\Users\1\source\repos\StartBot\StartBot\bin\Debug\netcoreapp3.1\StartBot.pdb
+C:\Users\1\source\repos\StartBot\StartBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\1\source\repos\StartBot\StartBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\1\source\repos\StartBot\StartBot\obj\Debug\netcoreapp3.1\StartBot.csprojAssemblyReference.cache
+C:\Users\1\source\repos\StartBot\StartBot\obj\Debug\netcoreapp3.1\StartBot.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\StartBot\StartBot\obj\Debug\netcoreapp3.1\StartBot.AssemblyInfo.cs
+C:\Users\1\source\repos\StartBot\StartBot\obj\Debug\netcoreapp3.1\StartBot.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\StartBot\StartBot\obj\Debug\netcoreapp3.1\StartBot.csproj.CopyComplete
+C:\Users\1\source\repos\StartBot\StartBot\obj\Debug\netcoreapp3.1\StartBot.dll
+C:\Users\1\source\repos\StartBot\StartBot\obj\Debug\netcoreapp3.1\StartBot.pdb
+C:\Users\1\source\repos\StartBot\StartBot\obj\Debug\netcoreapp3.1\StartBot.genruntimeconfig.cache
+C:\Users\1\source\repos\StartBot\StartBot\bin\Debug\netcoreapp3.1\MihaZupan.HttpToSocks5Proxy.dll
